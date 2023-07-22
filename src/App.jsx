@@ -7,8 +7,11 @@ const App = () => {
  
 
   return (
-    // <HomePage />
-    <ProductGalery />
+    /* 01-Clase */
+    <HomePage />
+
+    /* 02-Clase */
+    // <ProductGalery />
   );
 }
 

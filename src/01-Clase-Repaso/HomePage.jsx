@@ -6,9 +6,6 @@ export const HomePage = () => {
     <>
       <nav className="navbar navbar-expand-lg bg-dark" >
         <div className="container-fluid">
-          <a className="navbar-brand text-white" href="#">
-           <img src={ logo } width={40} />
-          </a>
           <button
             className="navbar-toggler"
             type="button"
@@ -53,7 +50,7 @@ export const HomePage = () => {
         </div>
       </nav>
       <box>
-        <div className='bg-banner'>
+        <div className='bg-white p-5 text-center'>
           <div style={{fontSize: '80px', fontWeight: 'bold'}}>WEEK SALE!</div>
           <div style={{fontSize: '30px'}}>Las mejores ofertas en celulares!</div>
           <div style={{ marginTop: '20px'}}>
