@@ -8,10 +8,10 @@ const App = () => {
 
   return (
     /* 01-Clase */
-    <HomePage />
+    // <HomePage />
 
     /* 02-Clase */
-    // <ProductGalery />
+    <ProductGalery />
   );
 }
 
