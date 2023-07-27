@@ -3,24 +3,28 @@
         "id": 1,
         "name": "Home",
         "link": "/home",
-        "active": true
+        "active": true,
+        "color": "white"    
     },
     {
         "id": 2,
         "name": "Shop",
         "link": "/shop",
-        "active": false
+        "active": false,
+        "color": "success"    
     },
     {
         "id": 3,
         "name": "Product",
         "link": "/product",
-        "active": false
+        "active": false,
+        "color": "warning"    
     },
     {
         "id": 4,
         "name": "Contact",
         "link": "/contact",
-        "active": false
+        "active": false,
+        "color": "primary"    
     }
 ]
