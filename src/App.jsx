@@ -1,17 +1,17 @@
 
 import './styles/index.css';
 import { HomePage } from './01-Clase-Repaso/HomePage';
-import { ProductGalery } from './02-Clase-Repaso/ProductGalery';
+import { TaskHead } from './02-Clase-Repaso/TaskHead';
 
 const App = () => {
  
 
   return (
     /* 01-Clase */
-    <HomePage />
+    // <HomePage />
 
     /* 02-Clase */
-    // <ProductGalery />
+    <TaskHead />
   );
 }
 
