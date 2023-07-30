@@ -10,21 +10,21 @@
         "id": 2,
         "name": "Shop",
         "link": "/shop",
-        "active": false,
-        "color": "success"    
+        "active": true,
+        "color": "white"    
     },
     {
         "id": 3,
         "name": "Product",
         "link": "/product",
-        "active": false,
-        "color": "warning"    
+        "active": true,
+        "color": "white"    
     },
     {
         "id": 4,
         "name": "Contact",
         "link": "/contact",
-        "active": false,
-        "color": "primary"    
+        "active": true,
+        "color": "white"    
     }
 ]
