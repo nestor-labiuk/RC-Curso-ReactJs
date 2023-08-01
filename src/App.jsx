@@ -7,16 +7,16 @@ import { Gimoji } from './03-Clase-Repaso/Gimoji';
 
 const App = () => {
  
-
+  
   return (
     /* 01-Clase */
     // <HomePage />
 
     /* 02-Clase */
-    // <TaskHead />
+    <TaskHead />
 
     /* 03-Clase */
-    <Gimoji />
+    // <Gimoji />
   );
 }
 

@@ -1,6 +1,13 @@
 
 export const Gimoji = () => {
 
+    try {
+        
+    } catch (error) {
+        
+    }
+    const resp = fetch();
+    const data = resp.json();
     
     return (
     <>

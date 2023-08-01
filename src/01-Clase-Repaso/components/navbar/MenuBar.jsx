@@ -1,6 +1,5 @@
 import React from 'react'
 import { MenuItem } from './MenuItem'
-import { useEffect } from 'react'
 
 export const MenuBar = ({ data }) => {
 
