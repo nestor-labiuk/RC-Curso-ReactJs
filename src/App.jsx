@@ -13,10 +13,10 @@ const App = () => {
     // <HomePage />
 
     /* 02-Clase */
-    // <TaskHead />
+    <TaskHead />
 
     /* 03-Clase */
-    <Gimoji />
+    // <Gimoji />
   );
 }
 
